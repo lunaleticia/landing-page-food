@@ -2,7 +2,7 @@
 <p>Este repositório contém uma Landing Page de Comida responsiva e com animações.</p>
 
 <h2>Descrição</h2>
-<p>Este projeto tem como objetivo criar uma Landing Page dinâmica e atrativa para os usuários. Utilização da biblioteca Scroll Reveal para adicionar animações de rolagem e JQuery para facilitar a implementação de um menu com troca de abas que se ajusta conforme a rolagem da página.</p>
+<p>Este projeto tem como objetivo uma Landing Page dinâmica e atrativa para os usuários. Utilização da biblioteca Scroll Reveal para adicionar animações de rolagem e JQuery para facilitar a implementação de um menu com troca de abas que se ajusta conforme a rolagem da página.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
